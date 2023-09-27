@@ -34,7 +34,7 @@ public class class_1Test {
     @Test
     public void testVoid_method() {
         // Opretter et objekt af class_1
-        class_1 obj = new class_1();
+        how_to_methods obj = new how_to_methods();
         
         // Kalder void_method på objektet
         obj.void_method();

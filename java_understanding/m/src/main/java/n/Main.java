@@ -3,13 +3,13 @@ package n;
 
 import java.util.Arrays;
 
-import package_1.class_1;
+import package_1.how_to_methods;
 
 public class Main {
     public static void main(String[] args) {// Her eksikvere vi vores kode fra. ALtså her starter vores kode.
         // System.out.println("Hello world!");
 
-        class_1 class_1 = new class_1();
+        how_to_methods class_1 = new how_to_methods();
         class_1.void_method();
 
         String how_to_recive_string = class_1.how_to_return_a_string();
