@@ -37,8 +37,10 @@ public class how_to_test {
         return myStringArray;
     }
 
-    public boolean how_to_return_a_bool(boolean mybool){
-        mybool = false;
+    public boolean how_to_return_a_bool(String mystring){
+
+        
+      boolean  mybool = false;
         return mybool;
     }
 
