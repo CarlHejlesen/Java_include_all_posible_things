@@ -24,7 +24,10 @@ public class how_to_testTest {
      * returnere
      * 
      */
+// Skal kune sende til function, hvilke paremtre den skal overholde, fx længde, er der et @ med, og det er det.
 
+
+    
     @Test
     public void testHow_to_return_a_bool() {
         //Jeg skal lave en instans af den klasse for at jeg kan kalde min method som jeg ønsker at teste
