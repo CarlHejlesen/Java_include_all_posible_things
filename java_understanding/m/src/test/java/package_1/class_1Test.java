@@ -5,6 +5,8 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
+import basic_functionalities.how_to_methods;
+
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 

@@ -12,17 +12,22 @@ If statements sammenligninger af strings, tal og obejktor
 
 
 **How to declare different types**
-- [ ] Int
-- [ ] String
-- [ ] Char
-- [ ] Array
-- [ ] String Array
+- [x] Int
+- [x] String
+- [x] Char
+- [x] Array
+- [x] String Array
 
 **Comparison with if statements**
 
-- [ ] Opperators.
-- [ ] Usefull methods for comparison.
-- [ ] Examples
+- [x] Opperators.
+- [x] Usefull methods for comparison.
+- [x] Examples
+
+**Switch**
+
+Different for loops
+
 
 
 How to print, and get start get system input from user
@@ -38,13 +43,19 @@ how public and private works
 
 
 
+**Return methods (hvordan du retunere ting fra en method inde i en klasse)**
+- [ ] Return Int
+- [ ] Return String
+- [ ] Return array
+- [ ] Return objects
+- [ ] Return String array
+- [ ] Return Bool
+
 # Methods 
 
 
 
-Return methods (hvordan du retunere ting fra en method inde i en klasse)
-different for loops
-switch
+
 
 
 Hvordan man finder ud af om et object har de samme attributter
@@ -73,6 +84,15 @@ How to declare class
 How to use clone();
 How to use extends af en klasse
 How to 
+
+
+
+
+# How file strukture work in java
+
+
+
+
 
 
 # Usefull  extionsions and what they do for Visual Studio code

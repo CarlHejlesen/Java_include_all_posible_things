@@ -1,9 +1,9 @@
-package n;
+package main_folder_code;
 
 
 import java.util.Arrays;
 
-import package_1.how_to_methods;
+import basic_functionalities.how_to_methods;
 
 public class Main {
     public static void main(String[] args) {// Her eksikvere vi vores kode fra. ALtså her starter vores kode.

@@ -1,5 +1,5 @@
 
-package package_1;
+package basic_functionalities;
 
 public class how_to_methods {
     
