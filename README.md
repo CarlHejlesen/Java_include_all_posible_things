@@ -62,6 +62,8 @@ Hvordan man finder ud af om et object har de samme attributter
 
 # Hard functionalities
 
+Data validation examples
+- [ ] Email Validation
 
 Dokumentation how to install dependencies and what they do
 - [ ] Maven
