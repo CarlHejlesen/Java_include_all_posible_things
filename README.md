@@ -2,12 +2,8 @@
 
 
 
- Her vil jeg inkludere test, for alt, struktur og hvad der er godt
 
-
-
-
-# basic functionalities
+## basic functionalities
 If statements sammenligninger af strings, tal og obejktor
 
 
@@ -25,13 +21,20 @@ If statements sammenligninger af strings, tal og obejktor
 - [x] Examples
 
 **Switch**
+- [x] Example
+  
+**Different for loops**
+- [x] While loop
+- [x] For loop
+- [x] For eatch 
 
-Different for loops
+**How to print, and get start get system input from user**
+- [x] System.out.print
+- [x] System.out.println
+- [x] Scanner.nextLine()
+- [x] Scanner2.nextInt();
 
-
-
-How to print, and get start get system input from user
- # Medium functionalities
+ ## Medium functionalities
  Try og catch
 - [ ] Exceptions
 
@@ -51,7 +54,7 @@ how public and private works
 - [ ] Return String array
 - [ ] Return Bool
 
-# Methods 
+## Methods 
 
 
 
@@ -60,7 +63,7 @@ how public and private works
 
 Hvordan man finder ud af om et object har de samme attributter
 
-# Hard functionalities
+## Hard functionalities
 
 Data validation examples
 - [ ] Email Validation
@@ -90,14 +93,14 @@ How to
 
 
 
-# How file strukture work in java
+## How file strukture work in java
 
 
 
 
 
 
-# Usefull  extionsions and what they do for Visual Studio code
+## Usefull  extionsions and what they do for Visual Studio code
 
 
 
