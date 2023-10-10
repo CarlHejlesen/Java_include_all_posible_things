@@ -47,6 +47,20 @@ If statements sammenligninger af strings, tal og obejktor
 - [x] Eksempel
 
 
+
+**Interface**
+- [ ] Forklaret
+- [ ] Eksempel 1
+- [ ] Eksempel 2
+
+**Implements**
+- [ ] Forklaret
+- [ ] Eksempel 1
+- [ ] Eksempel 2
+
+**Inner Class**
+- [ ] Forklaret
+- [ ] Eksempel 1
  ## Medium functionalities
 ** Try og cacth**
 - [x] Hvornår man bruger try & cacth og hvis man ikke bruger det
