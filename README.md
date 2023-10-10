@@ -52,7 +52,8 @@ If statements sammenligninger af strings, tal og obejktor
 
 
 **How to import package (classes, methods osv)**
-
+- [x] Forklaring
+- [x] Eksempel
 
 **Return methods (hvordan du retunere ting fra en method inde i en klasse)**
 - [ ] Return Int
