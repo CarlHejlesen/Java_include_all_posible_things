@@ -83,13 +83,17 @@ If statements sammenligninger af strings, tal og obejktor
 
 ## Hard functionalities
 
-Data validation examples
+**Data validation examples**
 
-- [ ] Email Validation
+- [x] Email Validation
+- [ ] Telfonnummer validation
+- [ ] Er et navn Validation
+- [ ] Er korrekt kode
 
-Dokumentation how to install dependencies and what they do
-- [ ] Maven
-- [ ] Junit
+
+
+
+
 
 
 ## Methods 
@@ -115,24 +119,29 @@ Steps to setup a test
 - [ ] 
 
 
+Test eksempler
+- [x] Email validation
+- [] Telefon nummer validation
 
 
 
 
 
 
-
-## How file strukture work in java
-
+How file strukture work in java
 
 
 
 
+# Misc
 
-## Usefull  extionsions and what they do for Visual Studio code
+### Usefull  extionsions and what they do for Visual Studio code
 
 
 
+### Dokumentation how to install dependencies and what they do
+- [ ] Maven
+- [ ] Junit
 
 
 

@@ -1,7 +1,6 @@
-package package_2;
+package validation_classes;
 
-public class Validation_class {
-
+public class email_validation {
     public boolean validates_email(String testString) {
 
         // Method to test
@@ -24,14 +23,6 @@ public class Validation_class {
         if(!(testString.contains("."))){
             return false;
         }
-        return true;
-    }
-
-
-
-
-
-    public boolean validates_telefone_number(){
         return true;
     }
 }
