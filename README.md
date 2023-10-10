@@ -41,6 +41,13 @@ If statements sammenligninger af strings, tal og obejktor
 - [x] Scanner2.nextInt();
 - [x] Wrong input handeling with while loop
  
+
+**Getter and setter**
+- [x] Hvorfor bruger man dem?
+- [x] Hvad er nytten
+- [x] Eksempel
+
+
  ## Medium functionalities
 ** Try og cacth**
 - [x] Hvornår man bruger try & cacth og hvis man ikke bruger det
@@ -71,21 +78,13 @@ If statements sammenligninger af strings, tal og obejktor
 - [x] Declaring local class and return instance of such
    
 **Hasmap**
-
-
-
-## Methods 
-
-
-
-
-
-
-Hvordan man finder ud af om et object har de samme attributter
+- [x] Forklaring
+- [x] Eksempel
 
 ## Hard functionalities
 
 Data validation examples
+
 - [ ] Email Validation
 
 Dokumentation how to install dependencies and what they do
@@ -93,7 +92,21 @@ Dokumentation how to install dependencies and what they do
 - [ ] Junit
 
 
-**How to test**
+## Methods 
+
+Hvordan man finder ud af om et object har de samme attributter
+Classes
+
+How to declare class
+
+How to use clone();
+
+How to use extends af en klasse
+
+
+## How to test
+
+
 
 Steps to setup a test 
 - [ ] Set up indput_output class with getter, setter and interface.
@@ -104,11 +117,7 @@ Steps to setup a test
 
 
 
-Classes
-How to declare class
-How to use clone();
-How to use extends af en klasse
-How to 
+
 
 
 
