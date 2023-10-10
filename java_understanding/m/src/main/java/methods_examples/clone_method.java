@@ -38,6 +38,7 @@ public class clone_method {
             // med de samme værdier for width og height.
             Box clonedBox = (Box) originalBox.clone();
 
+            
             // Udskriver det originale og det klonede Box objekt.
             System.out.println("Original: " + originalBox);
             System.out.println("Cloned: " + clonedBox);
