@@ -81,6 +81,9 @@ If statements sammenligninger af strings, tal og obejktor
 - [x] Forklaring
 - [x] Eksempel
 
+
+
+
 ## Hard functionalities
 
 **Data validation examples**
@@ -100,12 +103,18 @@ If statements sammenligninger af strings, tal og obejktor
 
 Hvordan man finder ud af om et object har de samme attributter
 Classes
+- [ ] How to use
+- [ ] Exampel
 
-How to declare class
 
 How to use clone();
+- [ ] How to use
+- [ ] Exampel
 
 How to use extends af en klasse
+- [ ] How to use
+- [ ] Exampel
+
 
 
 ## How to test
