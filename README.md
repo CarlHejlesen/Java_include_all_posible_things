@@ -24,9 +24,9 @@ If statements sammenligninger af strings, tal og obejktor
 - [x] Example
 
 **Lister**
-  - [x] Forklaring af lister
-  - [x] Hvorfor du altid burde bruge Arraylist
-  - [x] eksempler på brug af arraylist
+  - [x] Explenation
+  - [x] Why you should always just use Arraylist
+  - [x] Examples of arraylist
 
 **Different for loops**
 - [x] While loop
