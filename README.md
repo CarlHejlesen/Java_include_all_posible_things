@@ -28,7 +28,6 @@ If statements sammenligninger af strings, tal og obejktor
   - [x] Hvorfor du altid burde bruge Arraylist
   - [x] eksempler på brug af arraylist
 
-
 **Different for loops**
 - [x] While loop
 - [x] For loop
@@ -112,9 +111,9 @@ How to use clone();
 - [ ] Exampel
 
 How to use extends af en klasse
-- [ ] How to use
-- [ ] Exampel
-
+- [x] How to use
+- [x] Exampel
+- [x] Shows super class and subclass
 
 
 ## How to test
@@ -125,12 +124,12 @@ Steps to setup a test
 - [ ] Set up indput_output class with getter, setter and interface.
 - [ ] How to use assertEquals with comparisons of input vs output.
 - [ ] How to test system output
-- [ ] 
+
 
 
 Test eksempler
 - [x] Email validation
-- [] Telefon nummer validation
+- [ ] Telefon nummer validation
 
 
 
