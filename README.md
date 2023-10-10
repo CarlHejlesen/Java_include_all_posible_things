@@ -61,8 +61,10 @@ If statements sammenligninger af strings, tal og obejktor
 **Inner Class**
 - [ ] Forklaret
 - [ ] Eksempel 1
+  
  ## Medium functionalities
-** Try og cacth**
+
+**Try og cacth**
 - [x] Hvornår man bruger try & cacth og hvis man ikke bruger det
 - [x] Exceptions (Hvilke forskellige typer)
 - [x] Kun ved brug af Exception
