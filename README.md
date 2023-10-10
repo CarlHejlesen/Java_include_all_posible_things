@@ -22,7 +22,13 @@ If statements sammenligninger af strings, tal og obejktor
 
 **Switch**
 - [x] Example
-  
+
+**Lister**
+  - [x] Forklaring af lister
+  - [x] Hvorfor du altid burde bruge Arraylist
+  - [x] eksempler på brug af arraylist
+
+
 **Different for loops**
 - [x] While loop
 - [x] For loop
@@ -41,7 +47,7 @@ If statements sammenligninger af strings, tal og obejktor
 - [x] Exceptions (Hvilke forskellige typer)
 - [x] Kun ved brug af Exception
   
-**Throw **
+**Throw**
 - [x] Forklaring
 - [x] Eksempel
 
@@ -56,12 +62,17 @@ If statements sammenligninger af strings, tal og obejktor
 - [x] Eksempel
 
 **Return methods (hvordan du retunere ting fra en method inde i en klasse)**
-- [ ] Return Int
-- [ ] Return String
-- [ ] Return array
-- [ ] Return objects
-- [ ] Return String array
-- [ ] Return Bool
+- [x] Return Int
+- [x] Return String
+- [x] Return array
+- [x] Return String array
+- [x] Return Bool
+- [x] Return objects
+- [x] Declaring local class and return instance of such
+   
+**Hasmap**
+
+
 
 ## Methods 
 
