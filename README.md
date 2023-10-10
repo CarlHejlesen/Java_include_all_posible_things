@@ -135,13 +135,49 @@ How file strukture work in java
 
 # Misc
 
-### Usefull  extionsions and what they do for Visual Studio code
-
-
-
 ### Dokumentation how to install dependencies and what they do
-- [ ] Maven
-- [ ] Junit
+
+**Maven**
+
+Når du opretter et project så vælg at maven skal være instaleret med SOM STANDART.
+Når du bruger maven kan den automatisk instalere dependencies for dig
+
+
+- [x] Junit
+
+Junit er dit test libary som du bruger til at teste dine funktioner
+
+- [x] h2database
+
+Er Bruges som et mockfile database til dine test.
+
+
+
+### Usefull extionsions and what they do for Visual Studio code
+
+Jest runner 
+- Praktisk måde at test med, gør det hurtige at test inviduelle test ved hjælp af et klik
+
+Materia icon Theme
+- Tilføjer iconer til dinne mapper
+- Gør det pænere visuelt at arbejde med
+
+Better comments
+- Giver muligheder for at farve dinne kommentare, så fx du kan farve kordinere
+- Fx kan du lave en rød kommentar ud fra en funktion som ikke virker indu
+- Eller en gul en ude fra en hvor du skriver hvad funkitonen stadig mangler
+
+Extension pack for java
+- Giver en masse gode ting. BARE DOWNLOAD DEN   
+- Assister med at programere
+
+Vs code counter
+- Når Man i sin ctrl shit p skriver vs counter count lines giver den dig et overblik over hvor mange linjers kode du har skrevet.
+
+vscode-pets
+- Tilføjer søde små dyr nede i venstre hjørne som hopper rundt.
+- Du kan give dem navne
+
 
 
 
