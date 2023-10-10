@@ -42,11 +42,16 @@ If statements sammenligninger af strings, tal og obejktor
 - [x] Kun ved brug af Exception
   
 **Throw **
-- [ ] Error
+- [x] Forklaring
+- [x] Eksempel
 
 
-how public and private works
+**How public and private works**
+- [x] Forklaring
+- [x] Eksempel
 
+
+**How to import package (classes, methods osv)**
 
 
 **Return methods (hvordan du retunere ting fra en method inde i en klasse)**
