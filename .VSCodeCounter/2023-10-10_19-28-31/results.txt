@@ -1,0 +1,65 @@
+Date : 2023-10-10 19:28:31
+Directory : c:\Users\carlhejlesen\Documents\GitHub\Java_include_all_posible_things
+Total : 23 files,  679 codes, 165 comments, 305 blanks, all 1149 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Java     |         21 |        545 |        165 |        218 |        928 |
+| Markdown |          1 |        107 |          0 |         81 |        188 |
+| XML      |          1 |         27 |          0 |          6 |         33 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                                                           | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                                                              |         23 |        679 |        165 |        305 |      1,149 |
+| . (Files)                                                                                                                                                      |          1 |        107 |          0 |         81 |        188 |
+| java_understanding                                                                                                                                             |         22 |        572 |        165 |        224 |        961 |
+| java_understanding\m                                                                                                                                           |         22 |        572 |        165 |        224 |        961 |
+| java_understanding\m (Files)                                                                                                                                   |          1 |         27 |          0 |          6 |         33 |
+| java_understanding\m\src                                                                                                                                       |         21 |        545 |        165 |        218 |        928 |
+| java_understanding\m\src\main                                                                                                                                  |         19 |        479 |        149 |        186 |        814 |
+| java_understanding\m\src\main\java                                                                                                                             |         19 |        479 |        149 |        186 |        814 |
+| java_understanding\m\src\main\java\basic_functionalities                                                                                                       |          9 |        242 |         74 |         92 |        408 |
+| java_understanding\m\src\main\java\main_folder_code                                                                                                            |          1 |         17 |          3 |          9 |         29 |
+| java_understanding\m\src\main\java\medium_functionalities                                                                                                      |          5 |        150 |         63 |         59 |        272 |
+| java_understanding\m\src\main\java\mock_import_package                                                                                                         |          3 |         49 |          6 |         21 |         76 |
+| java_understanding\m\src\main\java\validation_classes                                                                                                          |          1 |         21 |          3 |          5 |         29 |
+| java_understanding\m\src\test                                                                                                                                  |          2 |         66 |         16 |         32 |        114 |
+| java_understanding\m\src\test\java                                                                                                                             |          2 |         66 |         16 |         32 |        114 |
+| java_understanding\m\src\test\java\package_1                                                                                                                   |          1 |         26 |         10 |         13 |         49 |
+| java_understanding\m\src\test\java\validation_classes                                                                                                          |          1 |         40 |          6 |         19 |         65 |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                                                                       | language | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\carlhejlesen\Documents\GitHub\Java_include_all_posible_things\README.md                                                                               | Markdown |        107 |          0 |         81 |        188 |
+| c:\Users\carlhejlesen\Documents\GitHub\Java_include_all_posible_things\java_understanding\m\pom.xml                                                            | XML      |         27 |          0 |          6 |         33 |
+| c:\Users\carlhejlesen\Documents\GitHub\Java_include_all_posible_things\java_understanding\m\src\main\java\basic_functionalities\basic_stuff.java               | Java     |          3 |          0 |          5 |          8 |
+| c:\Users\carlhejlesen\Documents\GitHub\Java_include_all_posible_things\java_understanding\m\src\main\java\basic_functionalities\declaring_types.java           | Java     |         10 |         12 |          5 |         27 |
+| c:\Users\carlhejlesen\Documents\GitHub\Java_include_all_posible_things\java_understanding\m\src\main\java\basic_functionalities\for_looops.java                | Java     |         18 |          1 |          6 |         25 |
+| c:\Users\carlhejlesen\Documents\GitHub\Java_include_all_posible_things\java_understanding\m\src\main\java\basic_functionalities\getters_and_setters.java       | Java     |         36 |         21 |         10 |         67 |
+| c:\Users\carlhejlesen\Documents\GitHub\Java_include_all_posible_things\java_understanding\m\src\main\java\basic_functionalities\how_to_methods.java            | Java     |         22 |          1 |         17 |         40 |
+| c:\Users\carlhejlesen\Documents\GitHub\Java_include_all_posible_things\java_understanding\m\src\main\java\basic_functionalities\if_comparisons.java            | Java     |         41 |          3 |         12 |         56 |
+| c:\Users\carlhejlesen\Documents\GitHub\Java_include_all_posible_things\java_understanding\m\src\main\java\basic_functionalities\input_output_scanner.java      | Java     |         59 |         14 |         19 |         92 |
+| c:\Users\carlhejlesen\Documents\GitHub\Java_include_all_posible_things\java_understanding\m\src\main\java\basic_functionalities\lister.java                    | Java     |         22 |         22 |         15 |         59 |
+| c:\Users\carlhejlesen\Documents\GitHub\Java_include_all_posible_things\java_understanding\m\src\main\java\basic_functionalities\switchh.java                   | Java     |         31 |          0 |          3 |         34 |
+| c:\Users\carlhejlesen\Documents\GitHub\Java_include_all_posible_things\java_understanding\m\src\main\java\main_folder_code\Main.java                           | Java     |         17 |          3 |          9 |         29 |
+| c:\Users\carlhejlesen\Documents\GitHub\Java_include_all_posible_things\java_understanding\m\src\main\java\medium_functionalities\hashmap.java                  | Java     |         41 |         13 |         17 |         71 |
+| c:\Users\carlhejlesen\Documents\GitHub\Java_include_all_posible_things\java_understanding\m\src\main\java\medium_functionalities\how_import_works.java         | Java     |         13 |         11 |          7 |         31 |
+| c:\Users\carlhejlesen\Documents\GitHub\Java_include_all_posible_things\java_understanding\m\src\main\java\medium_functionalities\private_public_explained.java | Java     |          7 |         13 |          7 |         27 |
+| c:\Users\carlhejlesen\Documents\GitHub\Java_include_all_posible_things\java_understanding\m\src\main\java\medium_functionalities\return_methods.java           | Java     |         54 |          2 |         14 |         70 |
+| c:\Users\carlhejlesen\Documents\GitHub\Java_include_all_posible_things\java_understanding\m\src\main\java\medium_functionalities\try_and_catch_throw.java      | Java     |         35 |         24 |         14 |         73 |
+| c:\Users\carlhejlesen\Documents\GitHub\Java_include_all_posible_things\java_understanding\m\src\main\java\mock_import_package\methods_to_import.java           | Java     |         26 |          0 |          9 |         35 |
+| c:\Users\carlhejlesen\Documents\GitHub\Java_include_all_posible_things\java_understanding\m\src\main\java\mock_import_package\person.java                      | Java     |         15 |          1 |          5 |         21 |
+| c:\Users\carlhejlesen\Documents\GitHub\Java_include_all_posible_things\java_understanding\m\src\main\java\mock_import_package\varibles_to_import.java          | Java     |          8 |          5 |          7 |         20 |
+| c:\Users\carlhejlesen\Documents\GitHub\Java_include_all_posible_things\java_understanding\m\src\main\java\validation_classes\email_validation.java             | Java     |         21 |          3 |          5 |         29 |
+| c:\Users\carlhejlesen\Documents\GitHub\Java_include_all_posible_things\java_understanding\m\src\test\java\package_1\class_1Test.java                           | Java     |         26 |         10 |         13 |         49 |
+| c:\Users\carlhejlesen\Documents\GitHub\Java_include_all_posible_things\java_understanding\m\src\test\java\validation_classes\email_validationTest.java         | Java     |         40 |          6 |         19 |         65 |
+| Total                                                                                                                                                          |          |        679 |        165 |        305 |      1,149 |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

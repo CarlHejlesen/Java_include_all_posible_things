@@ -1,6 +1,6 @@
 # Diff Details
 
-Date : 2023-10-10 17:25:54
+Date : 2023-10-10 19:28:31
 
 Directory c:\\Users\\carlhejlesen\\Documents\\GitHub\\Java_include_all_posible_things
 
