@@ -33,12 +33,15 @@ If statements sammenligninger af strings, tal og obejktor
 - [x] System.out.println
 - [x] Scanner.nextLine()
 - [x] Scanner2.nextInt();
-
+- [x] Wrong input handeling with while loop
+ 
  ## Medium functionalities
- Try og catch
-- [ ] Exceptions
-
-Throw 
+** Try og cacth**
+- [x] Hvornår man bruger try & cacth og hvis man ikke bruger det
+- [x] Exceptions (Hvilke forskellige typer)
+- [x] Kun ved brug af Exception
+  
+**Throw **
 - [ ] Error
 
 
