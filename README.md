@@ -177,26 +177,26 @@ Er Bruges som et mockfile database til dine test.
 
 ### Usefull extionsions and what they do for Visual Studio code
 
-Jest runner 
+**Jest runner**
 - Praktisk måde at test med, gør det hurtige at test inviduelle test ved hjælp af et klik
 
-Materia icon Theme
+**Materia icon Theme**
 - Tilføjer iconer til dinne mapper
 - Gør det pænere visuelt at arbejde med
 
-Better comments
+**Better comments**
 - Giver muligheder for at farve dinne kommentare, så fx du kan farve kordinere
 - Fx kan du lave en rød kommentar ud fra en funktion som ikke virker indu
 - Eller en gul en ude fra en hvor du skriver hvad funkitonen stadig mangler
 
-Extension pack for java
+**Extension pack for java**
 - Giver en masse gode ting. BARE DOWNLOAD DEN   
 - Assister med at programere
 
-Vs code counter
+**Vs code counter**
 - Når Man i sin ctrl shit p skriver vs counter count lines giver den dig et overblik over hvor mange linjers kode du har skrevet.
 
-vscode-pets
+**vscode-pets**
 - Tilføjer søde små dyr nede i venstre hjørne som hopper rundt.
 - Du kan give dem navne
 
