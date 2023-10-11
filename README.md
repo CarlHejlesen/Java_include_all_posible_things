@@ -59,8 +59,8 @@ If statements sammenligninger af strings, tal og obejktor
 - [ ] Eksempel 2
 
 **Inner Class**
-- [ ] Forklaret
-- [ ] Eksempel 1
+- [x] Forklaret
+- [x] Eksempel 1
   
  ## Medium functionalities
 
