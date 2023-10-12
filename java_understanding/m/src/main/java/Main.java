@@ -1,4 +1,4 @@
-package main_folder_code;
+
 
 
 import java.util.Arrays;
@@ -9,6 +9,7 @@ public class Main {
     public static void main(String[] args) {// Her eksikvere vi vores kode fra. ALtså her starter vores kode.
         // System.out.println("Hello world!");
 
+      
         how_to_methods class_1 = new how_to_methods();
         class_1.void_method();
 

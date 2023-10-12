@@ -191,6 +191,13 @@ Bruges til sesion tokens, gennerere session tokens, som opbevare fx hvornår tok
 Sesion tokenne er hashede, og opbevares som cookies hos brugeren.
 
 
+## Commands
+
+### For at compile og køre
+For at compile din kode skal du være inde i mappen med main og skrive (javac Main.java)
+Herefter kan du så kører den eksikverede kode med (java Main)
+
+
 ### Usefull extionsions and what they do for Visual Studio code
 
 **Jest runner**
