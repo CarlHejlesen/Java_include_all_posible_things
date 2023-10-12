@@ -1,6 +1,6 @@
 # Dokumentation for This techstack
 [Back link](../../../../../../../README.md)
-## Vi bruger Techstacken  React, Java(Spring framework), Database[Ikke valgt indu]
+## Vi bruger Techstacken  React native, Java(Spring framework), Database[Ikke valgt indu]
 
 
 ## Client 
