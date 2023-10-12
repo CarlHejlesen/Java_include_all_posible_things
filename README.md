@@ -159,7 +159,12 @@ Test eksempler
 
 How file strukture work in java
 
+# Teck stack eksempler
 
+## Tech stack eksempel med Spring React og en database
+
+Ligger i techstack mappen
+Her er link til dens [dokumentation](./java_understanding/m/src/main/java/techstack/native_spring_data/README.md)
 
 
 # Misc
