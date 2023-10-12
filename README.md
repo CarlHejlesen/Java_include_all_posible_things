@@ -78,6 +78,9 @@ If statements sammenligninger af strings, tal og obejktor
 - [x] Forklaring
 - [x] Eksempel
 
+**Static and final**
+- [ ] Forklaring
+- [ ] Eksempel
 
 **How to import package (classes, methods osv)**
 - [x] Forklaring
@@ -146,6 +149,8 @@ Steps to setup a test
 Test eksempler
 - [x] Email validation
 - [ ] Telefon nummer validation
+- [ ] Navn validation
+
 
 
 
@@ -165,6 +170,7 @@ How file strukture work in java
 
 Når du opretter et project så vælg at maven skal være instaleret med SOM STANDART.
 Når du bruger maven kan den automatisk instalere dependencies for dig
+Søg på maven og det libary du ønsker at inkludere.
 
 
 - [x] Junit
@@ -175,6 +181,14 @@ Junit er dit test libary som du bruger til at teste dine funktioner
 
 Er Bruges som et mockfile database til dine test.
 
+- [x] Bcrypt 
+
+Bcrypt bruges til at krypisere og salt passwords.
+
+- [x] java-jwt
+
+Bruges til sesion tokens, gennerere session tokens, som opbevare fx hvornår token blev udstødt, så vi kan logge useren ud efter et stykke tid.
+Sesion tokenne er hashede, og opbevares som cookies hos brugeren.
 
 
 ### Usefull extionsions and what they do for Visual Studio code
@@ -204,8 +218,34 @@ Er Bruges som et mockfile database til dine test.
 
 
 
+# Sesion token validation to login system.
+
+## Libary for hashing passwords
+
+bcrypt
+
+## Hashing med salt
+
+## Reset password med email
+- [ ] Eksempel
+- [ ] Funktion som kan med Email, og dokument sende Email
+## Sesion token
+java-jwt
+
+# Connection and storing data on a database(mysql)
 
 
 
+# Frameworks
+
+## Spring framework
+
+Kan impoteres på samme måde som andre dependensies.
+
+
+# How to send emails with java
+
+
+# Native react
 
 
