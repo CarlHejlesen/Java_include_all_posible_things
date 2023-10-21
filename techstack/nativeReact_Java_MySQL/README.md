@@ -12,8 +12,14 @@ Dette er vores APP, det som brugerne kommer til at kunne åbne, på deres telefo
 
 Java, hvor vi bruger Spring framework
 
-## Database
-Valg af Database er stadig usikkert.
+## Database MySQL
+
+Password til min server er: password
+
+
+### Commandoer
+
+
 
 
 

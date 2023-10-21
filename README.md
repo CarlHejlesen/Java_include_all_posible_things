@@ -246,7 +246,14 @@ java-jwt
 
 # Connection and storing data on a database(mysql)
 
+Kan downloaded på denne side: 
+https://dev.mysql.com/downloads/installer/
 
+Følg denne video: 
+https://www.youtube.com/watch?v=k5tICunelSU
+
+maven til java:
+https://mvnrepository.com/artifact/mysql/mysql-connector-java
 
 # Frameworks
 
