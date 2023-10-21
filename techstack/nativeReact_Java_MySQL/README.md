@@ -33,6 +33,7 @@ Kan anbefale Denne extesion så du kan se hvad du laver, og hvad du ikke laver: 
 
 ## Forstå tables
 
+Sådan her det ud når man laver en ny table
 #### String createTableQuery =
                               "CREATE TABLE " + tableName + " "
                             + "(id INT NOT NULL AUTO_INCREMENT, "
@@ -40,7 +41,50 @@ Kan anbefale Denne extesion så du kan se hvad du laver, og hvad du ikke laver: 
                             + " age INT, "
                             + " PRIMARY KEY ( id ))"; 
 
-(id INT NOT NULL AUTO_INCREMENT,)
+
+**CREATE TABLE person**  
+
+Denne del starter oprettelsen af en ny tabel i databasen med navnet "person". Alt hvad der kommer efter dette i parenteserne er definitionen af kolonnerne (felterne) i den tabel.
+
+**id:**
+
+ Navnet på kolonnen.
+
+**INT:** 
+
+Dette specificerer, at data-typen for denne kolonne er et heltal (integer).
+
+**NOT NULL:** 
+
+Denne betingelse sikrer, at kolonnen altid skal have en værdi for hver række (dvs. den kan ikke indeholde NULL-værdier).
+
+**AUTO_INCREMENT:** 
+
+Dette er en speciel egenskab for MySQL, der betyder, at hver gang en ny række tilføjes til tabellen, vil denne kolonne automatisk få en værdi, der er én højere end den forrige række. Dette er især nyttigt for primære nøgler.
+
+**VARCHAR(255):** 
+
+Angiver, at data-typen for denne kolonne er en tekststreng med en maksimal længde på 255 tegn.
+
+**DATE:** 
+
+Data-typen for denne kolonne er en dato.
+
+**DEFAULT CURRENT_DATE:** 
+
+Hvis der ikke angives en værdi for denne kolonne, når en ny række tilføjes, vil den automatisk blive sat til den aktuelle dato.
+
+**VARCHAR(255):** 
+
+Tekststreng med en maksimal længde på 255 tegn.
+
+**UNIQUE:** 
+
+Dette garanterer, at hver værdi i denne kolonne er unik for hele tabellen. Det er nyttigt for felter som e-mail, hvor hvert indlæg skal være forskelligt.
+
+**PRIMARY KEY:** 
+
+Dette definerer den primære nøgle for tabellen. En primær nøgle sikrer, at hver række i tabellen kan identificeres entydigt ved hjælp af denne nøgle.
 
 
 

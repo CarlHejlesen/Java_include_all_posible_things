@@ -2,7 +2,6 @@ package mySQL_handle;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
-import java.sql.Statement;
 public class return_connection_to_server {
     
 

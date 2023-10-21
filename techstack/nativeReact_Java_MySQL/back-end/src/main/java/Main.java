@@ -1,8 +1,9 @@
 import java.sql.Connection;
 import java.sql.SQLException;
-
+import java.util.List;
 import mySQL_handle.create_db;
 import mySQL_handle.create_table;
+import mySQL_handle.get_all_people;
 import mySQL_handle.insert_person_in_table;
 import mySQL_handle.return_connection_to_server;
 public class Main {
@@ -35,6 +36,11 @@ public class Main {
             String table_name_to_insert_in=my_table;
             insert_person_in_table_instance.insertUser(user1_name, user1_age, table_name_to_insert_in);
 
+            get_all_people get_all_people_instance = new get_all_people(connection_to_db);
+            List<get_all_people.Person> persons = get_all_people_instance.getAllPersons(my_table);
+            for (get_all_people.Person person : persons) {
+                System.out.println(person);
+            }
         } finally {
             try {
                 if (connection_to_server != null) {
