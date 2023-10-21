@@ -3,6 +3,7 @@ import java.sql.SQLException;
 
 import mySQL_handle.create_db;
 import mySQL_handle.create_table;
+import mySQL_handle.insert_person_in_table;
 import mySQL_handle.return_connection_to_server;
 public class Main {
     public static void main(String[] args) {
@@ -27,6 +28,12 @@ public class Main {
             connection_to_db = return_connection_to_server.getConnection(connection_string);
 
             create_table_instance.createTable(my_table, connection_to_db);
+
+            insert_person_in_table insert_person_in_table_instance = new insert_person_in_table(connection_to_db);
+            String user1_name="Carl SKovgaard";
+            int user1_age=23;
+            String table_name_to_insert_in=my_table;
+            insert_person_in_table_instance.insertUser(user1_name, user1_age, table_name_to_insert_in);
 
         } finally {
             try {

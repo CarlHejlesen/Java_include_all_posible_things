@@ -9,8 +9,8 @@ public class create_table {
                             + "(id INT NOT NULL AUTO_INCREMENT, "
                             + " name VARCHAR(255), "
                             + " age INT, "
-                            + " PRIMARY KEY ( id ))"; // For simplicity, we're creating a table with 3 columns: id, name, and age.
-
+                            + " PRIMARY KEY ( id ))"; 
+     // For simplicity, we're creating a table with 3 columns: id, name, and age.
     try (
          Statement stmt = connection.createStatement()) {
 
