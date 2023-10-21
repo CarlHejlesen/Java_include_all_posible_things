@@ -31,8 +31,8 @@ public class Main {
             create_table_instance.createTable(my_table, connection_to_db);
 
             insert_person_in_table insert_person_in_table_instance = new insert_person_in_table(connection_to_db);
-            String user1_name="Carl SKovgaard";
-            int user1_age=23;
+            String user1_name="karl SKovgaard";
+            int user1_age=3;
             String table_name_to_insert_in=my_table;
             insert_person_in_table_instance.insertUser(user1_name, user1_age, table_name_to_insert_in);
 
