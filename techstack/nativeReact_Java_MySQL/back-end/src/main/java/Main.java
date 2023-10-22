@@ -1,6 +1,8 @@
 import java.sql.Connection;
 import java.sql.SQLException;
 import java.util.List;
+
+import mySQL_handle.GetFirstDataInSkema;
 import mySQL_handle.create_db;
 import mySQL_handle.create_table;
 import mySQL_handle.get_all_people;
@@ -41,6 +43,18 @@ public class Main {
             for (get_all_people.Person person : persons) {
                 System.out.println(person);
             }
+
+            GetFirstDataInSkema getFirstDataInSkema_instance = new GetFirstDataInSkema(connection_to_db);
+            String name_to_serch_for = "karl SKovgaard";
+            String table_to_search_in= my_table;
+            int age = getFirstDataInSkema_instance.getAgeByName(name_to_serch_for, table_to_search_in);
+            if (age != -1) {
+                System.out.println(name_to_serch_for+"'s age is: " + age);
+            } else {
+                System.out.println(name_to_serch_for+"'s age not found in the database.");
+            }
+
+
         } finally {
             try {
                 if (connection_to_server != null) {
