@@ -101,7 +101,14 @@ Dette angiver de værdier, du vil indsætte i de specificerede kolonner. Men i s
 
 Bare brug det da det er godt for sikkerhed.
 
+## Eksempler på
 
+- [x] Class that returns a connection to server or database (Return_connection_to_server)
+- [x] Class that creates table (create_table)
+- [x] Class that get all data from a Table (get_all_people)
+- [x] Class that inserts data to a table(insert_person_in_table)
+- [x] Class that gets first mathc in table(GetFirstDataInSkeama)
+- [x] Class that creates a database (create_db)
 
 
 ## How to run
