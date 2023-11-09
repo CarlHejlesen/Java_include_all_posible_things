@@ -79,8 +79,8 @@ If statements sammenligninger af strings, tal og obejktor
 - [x] Eksempel
 
 **Static and final**
-- [ ] Forklaring
-- [ ] Eksempel
+- [x] Forklaring
+- [x] Eksempel
 
 **How to import package (classes, methods osv)**
 - [x] Forklaring
