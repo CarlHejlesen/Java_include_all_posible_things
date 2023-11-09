@@ -49,14 +49,14 @@ If statements sammenligninger af strings, tal og obejktor
 
 
 **Interface**
-- [ ] Forklaret
-- [ ] Eksempel 1
-- [ ] Eksempel 2
+- [x] Forklaret
+- [x] Eksempel 1
+
 
 **Implements**
-- [ ] Forklaret
-- [ ] Eksempel 1
-- [ ] Eksempel 2
+- [x] Forklaret
+- [x] Eksempel 1
+
 
 **Inner Class**
 - [x] Forklaret

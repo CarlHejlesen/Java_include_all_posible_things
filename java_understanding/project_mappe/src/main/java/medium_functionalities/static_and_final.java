@@ -5,15 +5,20 @@ public class static_and_final {
     // Her er et eksempel på hvordan det kan bruges
 
     // En static variabel, som vil tælle antallet af instanser af denne klasse.
+    
     private static int instanceCount = 0;
+   
+   
 
     // En static final variabel, hvilket er en konstant og kan ikke ændres.
     public static final String CONSTANT_EXAMPLE = "Konstant værdi";
 
     // Constructor der øger instanceCount hver gang en ny instans skabes.
     public static_and_final() {
+        this.instanceID = "DefaultID"; // Tilføj en default værdi her.
         instanceCount++;
     }
+   
 
     // En static metode, der returnerer antallet af skabte instanser.
     public static int getInstanceCount() {
@@ -25,12 +30,11 @@ public class static_and_final {
         System.out.println("Klassen static_and_final er blevet indlæst, og static blokken er udført.");
     }
     
-    
+     private final String instanceID;
     // final bruges når vi ønsker at gøre en instansvariabel uforanderlig efter tildeling.
     // Den skal initialiseres i constructoren, hvis den ikke allerede er det ved deklaration.
     
-    // En final instansvariabel
-    private final String instanceID;
+    
 
     // Constructor modtager nu en String som initialiserer den final instansvariabel.
     public static_and_final(String id) {
